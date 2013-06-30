@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1E1E1AF2</string>
+				<string>#1E1E1A</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -223,6 +223,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Custom function</string>
+			<key>scope</key>
+			<string>support.function.any-method</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00FF80</string>
 			</dict>
 		</dict>
 		<dict>
