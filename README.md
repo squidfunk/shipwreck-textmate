@@ -1,6 +1,6 @@
-# TextMate Themes
+# Shipwreck Textmate Theme
 
-The Shipwreck Textmate theme. Feel free to use, modify and redistribute.
+Feel free to use, modify and redistribute.
 
 ## License
 
