@@ -2,6 +2,8 @@
 
 Feel free to use, modify and redistribute.
 
+![Shipwreck](Shipwreck.png)
+
 ## License
 
 Copyright (c) 2012-2015 Martin Donath <md@struct.cc>
